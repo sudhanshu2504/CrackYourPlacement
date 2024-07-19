@@ -1,1 +1,1 @@
-# CrackYourPlacement
+#CrackYourPlacement - 45 Days DSA Challenge led by Arsh Goyal. It is a 45-50 days long challenge to revise DSA based problems and solve about 287 problems.
